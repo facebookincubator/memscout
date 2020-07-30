@@ -39,5 +39,9 @@ A sample jemalloc profile dump file is included in the root directory (`example_
 order to understand the metrics being displayed in the charts, we recommend that the user upload
 this file and walk though the different segments of the UI.
 
+##Contributing
+
+We welcome contributions! See [CONTRIBUTING](https://github.com/facebookincubator/memscout/blob/master/CONTRIBUTING.md) for details on how to get started, and our [code of conduct](https://github.com/facebookincubator/memscout/blob/master/CODE_OF_CONDUCT.md).
+
 ## License
-MemScout uses the MIT License, as found in the LICENSE file.
+MemScout uses the MIT License, as found in the [LICENSE file](https://github.com/facebookincubator/memscout/blob/master/LICENSE).

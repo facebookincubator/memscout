@@ -40,8 +40,7 @@ order to understand the metrics being displayed in the charts, we recommend that
 this file and walk though the different segments of the UI.
 
 ## Contributing
-
-We welcome contributions! See [CONTRIBUTING](https://github.com/facebookincubator/memscout/blob/master/CONTRIBUTING.md) for details on how to get started, and our [code of conduct](https://github.com/facebookincubator/memscout/blob/master/CODE_OF_CONDUCT.md.
+We welcome contributions! See [CONTRIBUTING](https://github.com/facebookincubator/memscout/blob/master/CONTRIBUTING.md) for details on how to get started, and our [Code of Conduct](https://github.com/facebookincubator/memscout/blob/master/CODE_OF_CONDUCT.md).
 
 ## License
 MemScout uses the MIT License, as found in the [LICENSE](https://github.com/facebookincubator/memscout/blob/master/LICENSE) file.

@@ -44,4 +44,4 @@ this file and walk though the different segments of the UI.
 We welcome contributions! See [CONTRIBUTING](https://github.com/facebookincubator/memscout/blob/master/CONTRIBUTING.md) for details on how to get started, and our [code of conduct](https://github.com/facebookincubator/memscout/blob/master/CODE_OF_CONDUCT.md).
 
 ## License
-MemScout uses the MIT License, as found in the [LICENSE file](https://github.com/facebookincubator/memscout/blob/master/LICENSE).
+MemScout uses the MIT License, as found in the [LICENSE](https://github.com/facebookincubator/memscout/blob/master/LICENSE) file.

@@ -34,10 +34,13 @@ user may upload a jemalloc profile dump file (JSON formatted) via the file uploa
 uploaded, MemScout will populate the appropriate sections of the UI with data and graphs extracted
 from the dump file.
 
-### Testing with provided example
+## Testing with provided example
 A sample jemalloc profile dump file is included in the root directory (`example_heap_profile.txt`). In
 order to understand the metrics being displayed in the charts, we recommend that the user upload
 this file and walk though the different segments of the UI.
 
+## Contributing
+We welcome contributions! See [CONTRIBUTING](https://github.com/facebookincubator/memscout/blob/master/CONTRIBUTING.md) for details on how to get started, and our [Code of Conduct](https://github.com/facebookincubator/memscout/blob/master/CODE_OF_CONDUCT.md).
+
 ## License
-MemScout uses the MIT License, as found in the LICENSE file.
+MemScout uses the MIT License, as found in the [LICENSE](https://github.com/facebookincubator/memscout/blob/master/LICENSE) file.
